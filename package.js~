@@ -1,7 +1,7 @@
 Package.describe({
-  summary: "Meetup API using Meteor Accounts user tokens.",
+  summary: "Adding an API for Meetup",
   version: "1.0.0",
-  git: "https://github.com/timbrandin/meteor-meetup-api"
+  git: " \* Fill me in! *\ "
 });
 
 Package.onUse(function(api) {
