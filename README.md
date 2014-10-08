@@ -1,7 +1,7 @@
 Meetup API
 =================
 
-A Meetup API using [Meteor Accounts](https://atmospherejs.com/meteor/accounts-meetup) user tokens instead of the Node.js plugin.
+A Meetup API using [Meteor Accounts](https://atmospherejs.com/meteor/accounts-meetup) user tokens instead of the [Meetup NPM plugin](https://www.npmjs.org/package/meetup-api).
 
 Here's an example how [@studiointeract](http://twitter.com/studiointeract) use it on http://nordic.meteor.com to get upcoming events for a users.
 
